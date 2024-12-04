@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is blockchain?",
+    "answer": "Blockchain is a decentralized digital ledger technology that records transactions across multiple computers in such a way that the registered transactions cannot be altered retroactively. This ensures transparency and security."
+  },
+  {
+    "question": "How does blockchain work?",
+    "answer": "Blockchain works by creating blocks of data that are linked together in a chain. Each block contains a list of transactions, a timestamp, and a cryptographic hash of the previous block, ensuring that all blocks are securely connected."
+  },
+  {
+    "question": "What are the benefits of using blockchain?",
+    "answer": "The benefits of using blockchain include increased security, transparency, reduced costs, improved traceability, and enhanced efficiency in transactions."
+  },
+  {
+    "question": "What is cryptocurrency?",
+    "answer": "Cryptocurrency is a digital or virtual currency that uses cryptography for security. It operates on blockchain technology and is decentralized, meaning it is not controlled by any central authority."
+  },
+  {
+    "question": "What is a smart contract?",
+    "answer": "A smart contract is a self-executing contract with the terms of the agreement directly written into code. It automatically executes actions when predefined conditions are met, eliminating the need for intermediaries."
+  },
+  {
+    "question": "What is mining in blockchain?",
+    "answer": "Mining is the process by which new cryptocurrency coins are created and transactions are verified on the blockchain. Miners use computational power to solve complex mathematical problems that validate transactions and add them to the blockchain."
+  },
+  {
+    "question": "What is a public vs private blockchain?",
+    "answer": "A public blockchain is open to anyone and allows anyone to participate in the network, while a private blockchain restricts access to specific users or organizations, providing more control over who can view or participate in the network."
+  },
+  {
+    "question": "What are decentralized applications (dApps)?",
+    "answer": "Decentralized applications (dApps) are applications that run on a peer-to-peer network rather than being hosted on centralized servers. They leverage blockchain technology to provide greater security and transparency."
+  },
+  {
+    "question": "What is a wallet in cryptocurrency?",
+    "answer": "A cryptocurrency wallet is a digital tool that allows users to store, send, and receive cryptocurrencies. Wallets can be software-based (hot wallets) or hardware-based (cold wallets) for enhanced security."
+  },
+  {
+    "question": "What are tokens in blockchain?",
+    "answer": "Tokens are digital assets created on existing blockchains that represent various forms of value or utility within an ecosystem. They can be used for transactions, governance, or as access rights within decentralized applications."
+  }
+]

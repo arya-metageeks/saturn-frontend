@@ -1,0 +1,32 @@
+[
+    {
+        "scapes": "Landscape",
+        "usd": 150.75,
+        "wallet": "0x123abc456def7890",
+        "time": "2024-11-21"
+    },
+    {
+        "scapes": "Seascape",
+        "usd": 200.50,
+        "wallet": "0x098zyx654wvu3210",
+        "time": "2024-11-20"
+    },
+    {
+        "scapes": "Cityscape",
+        "usd": 300.00,
+        "wallet": "0xabc123def4567890",
+        "time": "2024-11-19"
+    },
+    {
+        "scapes": "Abstract",
+        "usd": 120.25,
+        "wallet": "0xdef456abc1237890",
+        "time": "2024-11-18"
+    },
+    {
+        "scapes": "Fantasy",
+        "usd": 250.00,
+        "wallet": "0x789xyz123abc4560",
+        "time": "2024-11-17"
+    }
+]

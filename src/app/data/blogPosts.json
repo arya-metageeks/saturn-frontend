@@ -1,0 +1,26 @@
+[
+    {
+        "domain": "Fashion",
+        "author": "Emily Carter",
+        "description": "Latest trends in sustainable fashion and eco-friendly materials.",
+        "title": "Sustainable Fashion: The Future of Style",
+        "profile": "https://example.com/authors/emilycarter",
+        "date": "2024-01-10"
+    },
+    {
+        "domain": "Engineering",
+        "author": "Michael Brown",
+        "description": "Innovations in civil engineering and smart city designs.",
+        "title": "Building Tomorrow: Innovations in Civil Engineering",
+        "profile": "https://example.com/authors/michaelbrown",
+        "date": "2024-02-05"
+    },
+    {
+        "domain": "Finance",
+        "author": "Sarah Johnson",
+        "description": "Understanding cryptocurrency and its impact on global finance.",
+        "title": "Cryptocurrency: A New Era in Finance",
+        "profile": "https://example.com/authors/sarahjohnson",
+        "date": "2024-03-15"
+    }
+]
